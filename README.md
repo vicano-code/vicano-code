@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vicano-code, I 
 - 👀 I’m interested in web development and Python programming and looking for related jobs.
-- 🌱 I’m currently learning React and building my programming skills. So far, my web development skills include HTML, CSS, JAVASCRIPT, BOOTSTRAP MONGODB. 
 - 💞️ I’m looking to collaborate on a Python Data Science project to build my skills.
+- 🌱 I’m currently building my Data Science and Programming skills.  
 - 📫 How to reach me on vc.anokwuru@gmail.com
 
 <!---
