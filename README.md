@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicano-code, I 
+- 👋 Hi,
 - 👀 I’m interested in web development and Python programming and looking for related jobs.
 - 💞️ I’m looking to collaborate on a Python Data Science project to build my skills.
 - 🌱 I’m currently building my Data Science and Programming skills.  
