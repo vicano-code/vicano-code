@@ -52,9 +52,11 @@ Here are some of my favourite projects that showcase my skills and what I’m ca
 ### 💼 KryptoSide
 **Description:** KryptoSide is a free and user-friendly web service that provides users with information and statistics about the cryptocurrency market and coins
 
+**Tech Stack:** HTML, CSS, JavaScript, jQuery, Ajax, MySQL, Flask, Coingecko API
+
 **Role:** Full-Stack Developer
 
-**Highlights:** [Key achievements or features]  
+**Highlights:** Coingecko API Integration, MySQL database connection, Responsive website
 
 [🔗 Repository Link](https://github.com/vicano-code/KryptoSide)
 
