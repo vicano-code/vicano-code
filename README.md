@@ -1,4 +1,4 @@
-# 🌟 Victor Chukwudi Anokwuru - Software Engineer | ALX Graduate | Passionate Coder
+# 🌟 Victor Chukwudi Anokwuru - Software Engineer | ALX Graduate | Reservoir Engineer | Geophysicist | Passionate Coder
 
 ![GitHub Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
 
@@ -13,7 +13,7 @@ I’m a **Software Engineer** and recent **graduate of the ALX Software Engineer
 - 🔭 I’m passionate about leveraging technology to solve real-world problems.
 - 🌱 I continuously learn and explore new technologies to expand my skill set.
 - 💡 What inspires me? Life Stories, Challenges
-- 💼 I'm actively looking for new opportunities in software engineering. Connect with me!
+- 💼 I'm actively looking for new opportunities. Connect with me!
 
 ---
 
